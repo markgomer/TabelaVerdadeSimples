@@ -11,8 +11,11 @@
 Crie um programa que recebe como entrada duas variáveis e imprime no console a tabela-verdade correspondente. O programa deve ser feito na linguagem Java ou C++ e deve utilizar os conceitos de orientação a objetos. 
 
 Dados de entrada:
+
 → Variável 1: p
+
 → Variável 2: q
+
 Saída: Tabela 2^n
 
 | Var1 | Var2 | Conjunção | Disjunção | Implicação | Bicondicional |
